@@ -2,6 +2,9 @@
 
 GoAPI is a Go library that provides a FastAPI-like development experience for Python, with automatic validation, dependency injection, customizable middleware, and automatic documentation.
 
+![GoAPI Example](templates/assets/images/GoExample.png)
+
+
 ## 🚀 Key Features
 
 - ✅ **Automatic data validation** (similar to Pydantic)
